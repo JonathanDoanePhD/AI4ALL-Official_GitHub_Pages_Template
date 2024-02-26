@@ -1,7 +1,7 @@
 # (UPDATE IN README.md) Project Title
 
 (UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
+We found that...
 
 *EXAMPLE:*
 *Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
@@ -10,7 +10,7 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 ## Problem Statement <!--- do not change this line -->
 
 (UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
+Etc. etc.
 
 *EXAMPLE:*
 *Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
