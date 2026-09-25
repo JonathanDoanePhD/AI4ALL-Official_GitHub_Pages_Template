@@ -1,3 +1,7 @@
+> **Fork note:** This repository is a fork of [AI4ALL-Official/ai4all-official.github.io](https://github.com/AI4ALL-Official/ai4all-official.github.io). The template below belongs to the upstream project. See [Jonathan's separate learner template](https://github.com/JonathanDoanePhD/AI4ALL_GitHub_Pages_Template) for his own adapted documentation work.
+
+---
+
 # (UPDATE IN README.md) Project Title
 
 (UPDATE IN README.md)
